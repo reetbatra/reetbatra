@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **projects on Machine Learning and MERN stack**
 
-- 🤝 I’m looking for help with **guidance for juniors**
+- 🤝 I’m looking for help with **mock interviews**
 
 - 💬 Ask me about **data structures and algorithms**
 
