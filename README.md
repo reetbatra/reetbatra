@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Reet</h1>
-<h3 align="center">Final year CS undergrad @VIT, actively looking for opportunities in web3</h3>
+<h3 align="center">Final year CS undergrad @VIT, actively looking for opportunities in Web3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reetbatra&label=Profile%20views&color=0e75b6&style=flat" alt="reetbatra" /> </p>
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/reet_batra" target="blank"><img src="https://img.shields.io/twitter/follow/reet_batra?logo=twitter&style=for-the-badge" alt="reet_batra" /></a> </p>
 
-- 🌱 I’m currently learning **reactjs, solidity, and Rust**
+- 🌱 I’m currently learning **javascript, solidity, and CAIRO**
 
 - 👯 I’m looking to collaborate on **projects on blockchain**
 
-- 🤝 I’m looking for help with **data structures and algorithms**
+- 🤝 I’m looking for help with **CAIRO**
 
 - 💬 Ask me about **my web3 journey**
 
