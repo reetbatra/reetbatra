@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **CAIRO**
 
-- 💬 Ask me about **my web3 journey**
+- 💬 Currently on a mission to master frontend in 100 days!
 
 - 📫 How to reach me **reetbatra25@gmail.com**
 
