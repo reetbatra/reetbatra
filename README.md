@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/reet_batra" target="blank"><img src="https://img.shields.io/twitter/follow/reet_batra?logo=twitter&style=for-the-badge" alt="reet_batra" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, solidity, and CAIRO**
+- 🌱 I’m currently learning **TypeScript, next.js, and Tailwind CSS.**
 
 - 👯 I’m looking to collaborate on **projects on blockchain**
 
