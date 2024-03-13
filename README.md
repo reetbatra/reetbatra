@@ -19,11 +19,14 @@
 - 📫 How to reach me: **reetbatra25@gmail.com**
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
+
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/reet-batra/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reet Batra"  /></a>
-  <a href="https://twitter.com/reet_batra" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Reet Batra"  /></a>
+  <a href="https://www.linkedin.com/in/reet-batra/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reet Batra LinkedIn"  /></a>
+  <a href="https://twitter.com/reet_batra" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Reet Batra Twitter"  /></a>
+  <a href="https://reet.hashnode.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Reet Batra Hashnode"  /></a>
 </p>
+
 
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
