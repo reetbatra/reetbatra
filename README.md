@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqajEzZ3Rjc2J3OGdyZnRmamlpbWRhaGdxNWJrcW96YmlqMXB3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" height="175px"/></a></h1>
 
 
-<h1 align="center">Hi 👋, I'm Reet Batra</h1>
+<h1 align="center">Hi, I'm Reet 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
 
