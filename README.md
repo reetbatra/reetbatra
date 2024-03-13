@@ -1,4 +1,5 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://media1.tenor.com/m/KmPFMGQ07-4AAAAd/hffgf.gif" height="75px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://media1.tenor.com/m/KmPFMGQ07-4AAAAd/hffgf.gif" height="175px"/></a></h1>
+
 
 <h1 align="center">Hi 👋, I'm Reet Batra</h1>
 
