@@ -10,13 +10,13 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/reetbatra/count.svg)
 
-- 🌱 I’m currently learning **Next.js and Solidity**
+🌱 I’m currently learning **Next.js and Solidity**
 
-- 💬 Ask me about **Web Development, Zero Knowledge Proofs, and Blockchain**
+💬 Ask me about **Web Development, Zero Knowledge Proofs, and Blockchain**
 
-- ⚡ Fact: **Think more and code less**
+⚡ Fact: **Think more and code less**
 
-- 📫 How to reach me: **reetbatra25@gmail.com**
+📫 How to reach me: **reetbatra25@gmail.com**
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 
