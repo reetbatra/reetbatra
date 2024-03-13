@@ -58,10 +58,6 @@
 |----------------------------------|----------------------------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetbatra&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reetbatra&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/reetbatra)|
 
-|  Contribution Stats  |
-|----------------------|
-| ![Your Contribution Stats](./profile-3d-contrib/profile-night-view.svg) |
-
 
 
 
