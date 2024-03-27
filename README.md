@@ -20,10 +20,10 @@
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 
-| Projects | Hackathon |
+| Projects | Hackathons |
 |----------|----------|
 | DLS   | ETHforAll   |
-| EquiID   | wmn;2023 Best hack built on Ethereum + Polygon   |
+| EquiID   | wmn;2023 (Best hack built on Ethereum + Polygon)   |
 
 
 
