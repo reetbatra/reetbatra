@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Reet 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=Software+Engineer;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
 
 
 <h3>Profile Visits</h3>
