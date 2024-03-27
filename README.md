@@ -25,7 +25,7 @@
   
   | Projects | Hackathons |
   |----------|-----------|
-  | DLS      | ETHforAll  |
+  | DLS      | ETHforAll 2023|
   | EquiID   | Best hack built on Ethereum + Polygon at wmn;2023 |
   
 </div>
