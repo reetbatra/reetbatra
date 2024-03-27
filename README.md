@@ -18,6 +18,8 @@
 
 📫 How to reach me: **reetbatra25@gmail.com**
 
+<hr>
+
 
 | Projects | Hackathons |
 |----------|----------|
