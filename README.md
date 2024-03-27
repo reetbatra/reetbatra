@@ -39,7 +39,7 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=for-the-badge&logo=cairo&logoColor=white)
+  ![Cairo](https://img.shields.io/badge/Cairo-%23FF0000.svg?style=for-the-badge&logo=cairo&logoColor=white)
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
