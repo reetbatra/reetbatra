@@ -20,6 +20,16 @@
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 
+| Projects | Hackathon |
+|----------|----------|
+| DLS   | ETHforAll   |
+| EquiID   | wmn;2023 Best hack built on Ethereum + Polygon   |
+
+
+
+
+
+
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/reet-batra/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reet Batra LinkedIn"  /></a>
@@ -53,15 +63,7 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Storyblok](https://img.shields.io/badge/Storyblok-%2316BFFD.svg?style=for-the-badge&logo=storyblok&logoColor=white)
 
-| Projects | Hackathon |
-|----------|----------|
-| DLS   | ETHforAll   |
-| EquiID   | wmn;2023 Best hack built on Ethereum + Polygon   |
 
-
-
-
-  
 
   <!-- Add more languages and tools badges here -->
 
