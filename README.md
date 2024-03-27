@@ -53,6 +53,13 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Storyblok](https://img.shields.io/badge/Storyblok-%2316BFFD.svg?style=for-the-badge&logo=storyblok&logoColor=white)
 
+| Projects | Hackathon |
+|----------|----------|
+| DLS   | ETHforAll   |
+| EquiID   | wmn;2023 Best hack built on Ethereum + Polygon   |
+
+
+
 
   
 
