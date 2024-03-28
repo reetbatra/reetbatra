@@ -25,8 +25,8 @@
   
   | Projects | Hackathons |
   |----------|-----------|
-  | DLS      | ETHforAll 2023|
-  | EquiID   | Best hack built on Ethereum + Polygon at wmn;2023 |
+  | [DLS](https://devfolio.co/projects/dls-decentralized-lottery-system-2a91)      | ETHforAll 2023|
+  | [EquiID](https://devfolio.co/projects/equiid-66ab)   | Best hack built on Ethereum + Polygon at wmn;2023 |
   
 </div>
 
@@ -73,7 +73,6 @@
 
 <div align="center">
   
-
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetbatra&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/reetbatra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reetbatra&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/reetbatra)|
