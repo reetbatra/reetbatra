@@ -74,7 +74,7 @@
   
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetbatra&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/reetbatra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reetbatra&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/reetbatra)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetbatra&theme=light-purple&layout=compact&hide=css,html)](https://github.com/reetbatra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reetbatra&show_icons=true&theme=light-purple&hide_title=true)](https://github.com/reetbatra)|
 
 </div>
 
