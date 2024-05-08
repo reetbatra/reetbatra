@@ -27,6 +27,8 @@
   |----------|-----------|
   | [DLS](https://devfolio.co/projects/dls-decentralized-lottery-system-2a91)      | ETHforAll 2023|
   | [EquiID](https://devfolio.co/projects/equiid-66ab)   | Best hack built on Ethereum + Polygon at wmn;2023 |
+  | [Thirdweb NFT minter](https://nft-minter-thirdweb.vercel.app/) | Personal Project |
+  
   
 </div>
 
