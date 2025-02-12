@@ -10,11 +10,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/reetbatra/count.svg)
 
-🌱 I’m currently learning **Next.js and Solidity**
+👋🏻 I work as an Ecosystem DevRel at [StarkWare](https://starkware.co/).
 
-💬 Ask me about **Web Development, Zero Knowledge Proofs, and Blockchain**
+🌱 I love to build stupid stuff and improving devX is my cup of tea.
 
-⚡ Fact: **Think more and code less**
+💬 Exploring cool ideas along the intersection of Crypto x AI.
 
 📫 How to reach me: **reetbatra25@gmail.com**
 
