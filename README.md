@@ -1,14 +1,9 @@
- <!-- <h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFjb29qa2F2aGhvYjA5MDZiZjhsc3g3dXR1YTY0d2Jnc2dqcHc3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" height="175px"/></a></h1>
- -->
+
 
 <h1 align="center">Hi, I'm Reet 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=Engineer+by+❤️;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
 
-
-<!--<h3>Profile Visits</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/reetbatra/count.svg)-->
 
 👋🏻 I work as an Ecosystem DevRel at [StarkWare](https://starkware.co/).
 
