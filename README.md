@@ -41,11 +41,12 @@
   <a href="https://reet.hashnode.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Reet Batra Hashnode"  /></a>
 </p>
 
-
+ <!-- 
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
   <a href="https://leetcode.com/reet_batra/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Reet Batra"/></a>
 </p>
+
 
 
   <h3 align="center">Languages and Tools:</h3>
@@ -68,10 +69,12 @@
 ![Storyblok](https://img.shields.io/badge/Storyblok-%2316BFFD.svg?style=for-the-badge&logo=storyblok&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)
 
+
   <!-- Add more languages and tools badges here -->
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
 
+<!--
 <div align="center">
  <!--  
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭| 
@@ -83,4 +86,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=reetbatra&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
+
 </div>
+
