@@ -24,7 +24,7 @@
   | [EquiID](https://devfolio.co/projects/equiid-66ab)   | Best hack built on Ethereum + Polygon at wmn;2023 |
   | [basedfunding](https://devfolio.co/projects/based-funding-d8b3) | Onchain summer buildathon by base |
   | [Chrono's Gambit](https://chronos-gambit.vercel.app/) | Best usage of Move winner at Aptos Winter School |
-  | [World Circle]((https://ethglobal.com/showcase/worldcircle-ggu7n)) | EthGlobal New Delhi |
+  | [World Circle](https://ethglobal.com/showcase/worldcircle-ggu7n) | EthGlobal New Delhi |
   
 </div>
 
