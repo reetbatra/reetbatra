@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=Engineer+by+❤️;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
 
 
-👋🏻 I work as an Ecosystem DevRel at [StarkWare](https://starkware.co/).
+👋🏻 I jump around tech, ideas, code and docs.
 
 🌱 I love to build stupid stuff and improving devX is my cup of tea.
 
