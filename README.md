@@ -1,87 +1,37 @@
+# Reet Batra
 
+I build AI systems that other people depend on, and own what breaks.
 
-<h1 align="center">Hi, I'm Reet 👋</h1>
+Bangalore. Working on correctness and reliability in agent-generated software.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%2336BCF7FF&vCenter=true&lines=Engineer+by+❤️;Tech+Enthusiast;Developer+Advocate)](https://git.io/typing-svg)
+---
 
+### Shipped
 
-👋🏻 I jump around tech, ideas, code and docs.
+**[docs-parity](https://github.com/reetbatra/docs-parity)**
+Detects drift between what code actually does and what the docs claim, then drafts the fix. Walks the TypeScript compiler AST for the real exported API surface, crawls the live docs, diffs both with Claude using structured outputs, and returns ranked mismatches with a reproducible drift score. Each finding opens as a pre-filled GitHub issue.
 
-🌱 I love to build stupid stuff and improving devX is my cup of tea.
+**[pricekit](https://github.com/reetbatra/pricekit)**
+Pricing copilot for Dodo Payments credit billing. Recommends a pricing model, computes every number in the open, provisions the billing objects in test mode, hands your coding agent a one-line integration task, then proves the wiring with deterministic checks. Agents write code, calculators do arithmetic.
 
-💬 Exploring cool ideas along the intersection of Crypto x AI.
+**[deja-vu-agent](https://github.com/reetbatra/deja-vu-agent)**
+A support agent that never solves the same question twice. Answers from your docs with Claude, saves that answer as a reusable skill file, then replies from the file next time with no model call and no token cost.
 
-📫 How to reach me: **reetbatra25@gmail.com**
+**[nudge](https://github.com/reetbatra/nudge)** · [nudge.reetbatra.com](https://nudge.reetbatra.com)
+Job-application tracker for people who struggle to act on opportunities. Three-step pipeline per role, Kanban board, and a cron-driven Web Push nudge every morning. React 19, Express 5, Postgres, Vercel.
 
-<hr>
+**[blunt](https://github.com/reetbatra/blunt)** · [bluntapp.reetbatra.com](https://bluntapp.reetbatra.com)
+AI speech coach that tells you exactly what to fix and makes you say it again until you stop rambling. Next.js and Convex.
 
+**[claude-deck](https://github.com/reetbatra/claude-deck)**
+Local dashboard for Claude Code, built for teammates who never touch a terminal. Real session data, skill-usage stats, one-click automations. No mock mode.
 
-<div align="center">
-  
-  | Projects | Hackathons |
-  |----------|-----------|
-  | [DLS](https://devfolio.co/projects/dls-decentralized-lottery-system-2a91)      | ETHforAll 2023|
-  | [EquiID](https://devfolio.co/projects/equiid-66ab)   | Best hack built on Ethereum + Polygon at wmn;2023 |
-  | [basedfunding](https://devfolio.co/projects/based-funding-d8b3) | Onchain summer buildathon by base |
-  | [Chrono's Gambit](https://chronos-gambit.vercel.app/) | Best usage of Move winner at Aptos Winter School |
-  | [World Circle](https://ethglobal.com/showcase/worldcircle-ggu7n) | EthGlobal New Delhi |
-  
-</div>
+---
 
-<h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
+### Before this
 
-<h3 align="center" > Connect with me: </h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/reet-batra/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reet Batra LinkedIn"  /></a>
-  <a href="https://twitter.com/reet_batra" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Reet Batra Twitter"  /></a>
-  <a href="https://reet.hashnode.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Reet Batra Hashnode"  /></a>
-</p>
+Four years of developer relations across crypto infrastructure: StarkWare, Biconomy, Nervos, and the Polygon ecosystem. Ran a developer conference, a Cairo bootcamp, and community programs spanning 11 cities.
 
- <!-- 
-<h3 align="center">Coding Profiles:</h3>
-<p align="center">
-  <a href="https://leetcode.com/reet_batra/" target="blank"><img align="center" src="https://img.shields.io/badge/Reet%20Batra-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Reet Batra"/></a>
-</p>
+---
 
-
-
-  <h3 align="center">Languages and Tools:</h3>
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Cairo](https://img.shields.io/badge/Cairo-%23FF0000.svg?style=for-the-badge&logo=cairo&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Storyblok](https://img.shields.io/badge/Storyblok-%2316BFFD.svg?style=for-the-badge&logo=storyblok&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-
-  <!-- Add more languages and tools badges here -->
-
-<!--![](./profile-3d-contrib/profile-night-view.svg)-->
-
-<!--
-<div align="center">
- <!--  
-|🎯 Most used languages 🏆| 🏆 Github Stats 🔭| 
-|----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reetbatra&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/reetbatra/github-readme-stats) | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reetbatra&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/reetbatra)| 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=reetbatra&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-
-
-</div>
-
+reetbatra25@gmail.com · [reetbatra.com](https://reetbatra.com) · [linkedin.com/in/reet-batra](https://linkedin.com/in/reet-batra) · [@reet_batra](https://x.com/reet_batra)
