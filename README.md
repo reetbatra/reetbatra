@@ -2,6 +2,128 @@
 
 # Reet Batra
 
+**I build AI systems that other people depend on, and own what breaks.**
+
+Bangalore · Forward deployed by temperament
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2328?style=flat-square&logo=vercel&logoColor=white)](https://reetbatra.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2328?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/reet-batra)
+&nbsp;
+[![X](https://img.shields.io/badge/X-1F2328?style=flat-square&logo=x&logoColor=white)](https://x.com/reet_batra)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white)](mailto:reetbatra25@gmail.com)
+
+</div>
+
+<br>
+
+## Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [docs-parity](https://github.com/reetbatra/docs-parity)
+
+**Your docs lie. This proves it.**
+
+Diffs your real API surface against your live docs and scores the drift.
+
+`TypeScript` `Claude`  ·  [Try it →](https://docsparity.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### [pricekit](https://github.com/reetbatra/pricekit)
+
+**Agents write code. Calculators do arithmetic.**
+
+Picks your pricing model, shows the math, provisions the billing, checks its own work.
+
+`TypeScript` `CLI`  ·  [Quickstart →](https://github.com/reetbatra/pricekit#quickstart-15-minutes)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [deja-vu-agent](https://github.com/reetbatra/deja-vu-agent)
+
+**Answers once. Remembers forever.**
+
+Saves every good answer as a skill file, then replies from it. No model call, no cost.
+
+`Python` `FastAPI`  ·  [How it works →](https://github.com/reetbatra/deja-vu-agent)
+
+</td>
+<td width="50%" valign="top">
+
+#### [nudge](https://github.com/reetbatra/nudge)
+
+**Opportunities die in forgotten tabs.**
+
+Tracks every application through three steps and pings you every morning.
+
+`React` `Postgres`  ·  [Live →](https://nudge.reetbatra.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [blunt](https://github.com/reetbatra/blunt)
+
+**Most speech coaches are polite. This one isn't.**
+
+Tells you what's wrong with how you talk, then makes you say it again.
+
+`Next.js` `Convex`  ·  [Live →](https://bluntapp.reetbatra.com)
+
+</td>
+<td width="50%" valign="top">
+
+#### [claude-deck](https://github.com/reetbatra/claude-deck)
+
+**Claude Code, without the terminal.**
+
+Real session data, usage stats, one-click automations. No mock mode.
+
+`Node.js` `Claude Code`  ·  [Screenshots →](https://github.com/reetbatra/claude-deck)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stack
+
+TypeScript · Python · React · Next.js · Node.js · FastAPI · Postgres · Convex · Vercel · Claude API · MCP
+
+<br>
+
+## Before this
+
+Four years of DevRel across crypto infrastructure: StarkWare, Biconomy, Nervos, Polygon ecosystem. A conference, a Cairo bootcamp, 11 cities.
+
+<br>
+
+---
+
+<div align="center">
+
+**Open to Forward Deployed and AI engineering roles.**
+
+[reetbatra25@gmail.com](mailto:reetbatra25@gmail.com)
+
+</div>
+<div align="center">
+
+# Reet Batra
+
 ### I build AI systems that other people depend on, and own what breaks.
 
 **Bangalore** · Correctness and reliability in agent-generated software
