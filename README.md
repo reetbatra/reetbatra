@@ -32,7 +32,7 @@ TypeScript · Python · React · Next.js · Node.js · FastAPI · Postgres · Co
 
 ### Before this
 
-Four years of DevRel across crypto infrastructure: StarkWare, Biconomy, Nervos, Polygon ecosystem. A conference, a Cairo bootcamp, 11 cities.
+Four years of DevRel across crypto infrastructure: StarkWare, Biconomy, Nervos, Polygon ecosystem. 
 
 <br>
 
@@ -40,7 +40,7 @@ Four years of DevRel across crypto infrastructure: StarkWare, Biconomy, Nervos, 
 
 <div align="center">
 
-**Open to Forward Deployed and AI engineering roles.**
+**Open to Forward Deployed and AI DevRel roles.**
 
 [reetbatra25@gmail.com](mailto:reetbatra25@gmail.com)
 
