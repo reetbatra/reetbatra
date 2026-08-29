@@ -22,9 +22,7 @@ Bangalore · Forward deployed by temperament
 
 ### Right now
 
-Making agent-generated software trustworthy. Most of it works the first time and quietly drifts after that, so I build the things that catch the drift: docs that disagree with their code, billing math a model shouldn't improvise, support answers that get re-derived worse every week.
-
-Pinned below. All of it deployed, none of it a demo.
+Contributing 
 
 ### Stack
 
