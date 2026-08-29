@@ -1,45 +1,95 @@
 <div align="center">
 
-# Reet Batra
+# 👋 Hi, I'm Reet
 
-**I build AI systems that other people depend on, and own what breaks.**
+### 🛠️ I build AI systems other people depend on, and I own what breaks
 
-Bangalore · Forward deployed by temperament
+`📍 Bangalore` &nbsp; `🚀 Forward deployed by temperament` &nbsp; `🎤 11 cities of developer events`
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2328?style=flat-square&logo=vercel&logoColor=white)](https://reetbatra.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2328?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/reet-batra)
-&nbsp;
-[![X](https://img.shields.io/badge/X-1F2328?style=flat-square&logo=x&logoColor=white)](https://x.com/reet_batra)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white)](mailto:reetbatra25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reetbatra.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reet-batra)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reet_batra)
+[![Email](https://img.shields.io/badge/Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reetbatra25@gmail.com)
 
 </div>
 
-<br>
+---
 
-### Right now
+## 🔭 What I'm doing right now
 
-Contributing to [Sarvam AI](https://github.com/sarvamai)'s open source: their [AI SDK provider](https://github.com/sarvamai/sarvam-ai-sdk) and the [skills](https://github.com/sarvamai/skills) library. The kind of bugs you only hit by building on an SDK instead of reading it: a TTS parameter that didn't match the API, streaming that never recorded the assistant's reply.
+🧪 Contributing to **[Sarvam AI](https://github.com/sarvamai)**'s open source: their [AI SDK provider](https://github.com/sarvamai/sarvam-ai-sdk) and the [skills](https://github.com/sarvamai/skills) library.
 
-### Stack
+The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 
-TypeScript · Python · React · Next.js · Node.js · FastAPI · Postgres · Convex · Vercel · Claude API · MCP
+| | What broke | Where |
+|:--:|:--|:--|
+| 🔊 | A TTS parameter that didn't match the actual API | [`skills` #17](https://github.com/sarvamai/skills/pull/17) ✅ merged |
+| 📡 | Streaming that never recorded the assistant's reply | [`sarvam-ai-sdk` #15](https://github.com/sarvamai/sarvam-ai-sdk/pull/15) 🔍 in review |
 
-### Before this
+---
 
-Four years of DevRel across crypto infrastructure: StarkWare, Biconomy, Nervos, Polygon ecosystem. 
+## 📦 Things I've shipped
 
-<br>
+> All deployed. None of them a demo. 🚢
+
+| | Project | What it does |
+|:--:|:--|:--|
+| 📚 | **[docs-parity](https://github.com/reetbatra/docs-parity)** · [live](https://docsparity.vercel.app) | Finds where your docs and code have drifted apart. Reads the real API surface from the TypeScript AST, crawls the live docs, returns ranked mismatches with a drift score and a one click fix issue. |
+| 🗣️ | **[blunt](https://github.com/reetbatra/blunt)** · [live](https://bluntapp.reetbatra.com) | An AI speech coach that tells you exactly what to fix in how you talk, then makes you say it again until you stop rambling. |
+| 🔁 | **[deja-vu-agent](https://github.com/reetbatra/deja-vu-agent)** | A support agent that never solves the same question twice. Answers from your docs, saves the answer as a reusable skill file, then replies from that file with zero tokens next time. |
+| 💸 | **[pricekit](https://github.com/reetbatra/pricekit)** | Pricing copilot for credit billing. Recommends the model, shows every number in the open, provisions test mode billing, then verifies the wiring. |
+| 🎛️ | **[claude-deck](https://github.com/reetbatra/claude-deck)** | A local dashboard for Claude Code. Daily report, one click skills, searchable session log. |
+| 📮 | **[nudge](https://github.com/reetbatra/nudge)** · [live](https://nudge.reetbatra.com) | Job tracker for people who struggle to *act* on opportunities. One prioritized push nudge every morning, single user by design. |
+
+---
+
+## 🧰 My toolbox
+
+<div align="center">
+
+**Everyday**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Data & deploy**
+
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI**
+
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1F1F1F?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## ⏮️ Before all this
+
+🌐 Four years of DevRel across crypto infrastructure: **StarkWare**, **Biconomy**, **Nervos**, and the **Polygon** ecosystem. A conference, a Cairo bootcamp, and a lot of airport wifi.
+
+That's where I learned the part that actually transfers: 🎯 if a developer can't get it working in ten minutes, it doesn't matter how good the thing is.
 
 ---
 
 <div align="center">
 
-**Open to Forward Deployed and AI DevRel roles.**
+## 💌 Open to Forward Deployed and AI DevRel roles
 
-[reetbatra25@gmail.com](mailto:reetbatra25@gmail.com)
+If you're building something developers have to *understand* before they can use it, we should talk.
+
+[![Email](https://img.shields.io/badge/reetbatra25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reetbatra25@gmail.com)
+
+<sub>🐛 Found a bug in something of mine? Open an issue. I actually reply.</sub>
 
 </div>
