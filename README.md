@@ -1,21 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Reet
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/header.svg" alt="Reet Batra. I build AI systems other people depend on, and I own what breaks." width="100%">
 
-### 🛠️ I build AI systems other people depend on, and I own what breaks
-
-`📍 Bangalore` &nbsp; `🚀 Forward deployed by temperament` &nbsp; `🎤 11 cities of developer events`
-
-<br>
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reetbatra.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reet-batra)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reet_batra)
 [![Email](https://img.shields.io/badge/Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reetbatra25@gmail.com)
 
-</div>
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
 
----
+</div>
 
 ## 🔭 What I'm doing right now
 
@@ -28,7 +24,7 @@ The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 | 🔊 | A TTS parameter that didn't match the actual API | [`skills` #17](https://github.com/sarvamai/skills/pull/17) ✅ merged |
 | 📡 | Streaming that never recorded the assistant's reply | [`sarvam-ai-sdk` #15](https://github.com/sarvamai/sarvam-ai-sdk/pull/15) 🔍 in review |
 
----
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
 
 ## 📦 Things I've shipped
 
@@ -43,7 +39,7 @@ The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 | 🎛️ | **[claude-deck](https://github.com/reetbatra/claude-deck)** | A local dashboard for Claude Code. Daily report, one click skills, searchable session log. |
 | 📮 | **[nudge](https://github.com/reetbatra/nudge)** · [live](https://nudge.reetbatra.com) | Job tracker for people who struggle to *act* on opportunities. One prioritized push nudge every morning, single user by design. |
 
----
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
 
 ## 🧰 My toolbox
 
@@ -70,19 +66,35 @@ The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 ![MCP](https://img.shields.io/badge/MCP-1F1F1F?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
+
 </div>
 
----
+## 🐍 My commits, being eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reetbatra/reetbatra/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reetbatra/reetbatra/output/snake.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/reetbatra/reetbatra/output/snake.svg" width="100%">
+</picture>
+
+<sub>Regenerated nightly by a GitHub Action. Yes, I automated a snake. 🎮</sub>
+
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
+
+</div>
 
 ## ⏮️ Before all this
 
-🌐 Four years of DevRel across crypto infrastructure: **StarkWare**, **Biconomy**, **Nervos**, and the **Polygon** ecosystem. A conference, a Cairo bootcamp, and a lot of airport wifi.
+🌐 Four years of DevRel across crypto infrastructure: **StarkWare**, **Biconomy**, **Nervos**, and the **Polygon** ecosystem. A conference, a Cairo bootcamp, and 11 cities of developer events.
 
 That's where I learned the part that actually transfers: 🎯 if a developer can't get it working in ten minutes, it doesn't matter how good the thing is.
 
----
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
 
 ## 💌 Open to Forward Deployed and AI DevRel roles
 
