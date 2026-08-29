@@ -1,0 +1,9 @@
+{
+  "pid": 95100,
+  "port": 37220,
+  "token": "c50c6162-d67c-485e-9fc7-a7196cd9cde1",
+  "startedAt": "2026-08-29T19:27:02.429Z",
+  "serverPath": "/Users/reet/.claude/skills/gstack/browse/src/server.ts",
+  "mode": "launched",
+  "configHash": "303a7eeccc03078b"
+}

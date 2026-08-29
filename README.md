@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/header.svg" alt="Reet Batra. I build AI systems other people depend on, and I own what breaks." width="100%">
+<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/header.svg?v=2" alt="Reet Batra. I build AI systems other people depend on, and I own what breaks." width="100%">
 
 <br><br>
 
