@@ -22,7 +22,7 @@ Bangalore · Forward deployed by temperament
 
 ### Right now
 
-Contributing 
+Contributing to [Sarvam AI](https://github.com/sarvamai)'s open source: their [AI SDK provider](https://github.com/sarvamai/sarvam-ai-sdk) and the [skills](https://github.com/sarvamai/skills) library. The kind of bugs you only hit by building on an SDK instead of reading it: a TTS parameter that didn't match the API, streaming that never recorded the assistant's reply.
 
 ### Stack
 
