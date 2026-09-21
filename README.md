@@ -70,21 +70,6 @@ The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 
 </div>
 
-## 🐍 My commits, being eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reetbatra/reetbatra/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reetbatra/reetbatra/output/snake.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/reetbatra/reetbatra/output/snake.svg" width="100%">
-</picture>
-
-<sub>Regenerated nightly by a GitHub Action. Yes, I automated a snake. 🎮</sub>
-
-<img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
-
-</div>
 
 ## ⏮️ Before all this
 
