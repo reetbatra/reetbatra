@@ -22,7 +22,6 @@ The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 | | What broke | Where |
 |:--:|:--|:--|
 | 🔊 | A TTS parameter that didn't match the actual API | [`skills` #17](https://github.com/sarvamai/skills/pull/17) ✅ merged |
-| 📡 | Streaming that never recorded the assistant's reply | [`sarvam-ai-sdk` #15](https://github.com/sarvamai/sarvam-ai-sdk/pull/15) 🔍 in review |
 
 <img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
 
