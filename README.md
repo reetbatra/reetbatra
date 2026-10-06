@@ -15,12 +15,13 @@
 
 ## 🔭 What I'm doing right now
 
-🧪 Contributing to **[Sarvam AI](https://github.com/sarvamai)**'s open source: their [AI SDK provider](https://github.com/sarvamai/sarvam-ai-sdk) and the [skills](https://github.com/sarvamai/skills) library.
+🧪 Fixing the docs and skills I trip over while building on **[Sarvam AI](https://github.com/sarvamai)** and **[Cyberwave](https://github.com/cyberwave-os)**.
 
 The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 
 | | What broke | Where |
 |:--:|:--|:--|
+| 🤖 | A Quickstart whose first example crashed | [`docs-mintlify` #105](https://github.com/cyberwave-os/docs-mintlify/pull/105) ✅ merged |
 | 🔊 | A TTS parameter that didn't match the actual API | [`skills` #17](https://github.com/sarvamai/skills/pull/17) ✅ merged |
 
 <img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
