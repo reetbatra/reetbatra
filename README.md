@@ -15,7 +15,7 @@
 
 ## 🔭 What I'm doing right now
 
-🧪 Fixing the docs and skills I trip over while building on **[Sarvam AI](https://github.com/sarvamai)** and **[Cyberwave](https://github.com/cyberwave-os)**.
+🧪 Fixing the docs and agent skills I trip over while building on **[Sarvam AI](https://github.com/sarvamai)**, **[Cyberwave](https://github.com/cyberwave-os)** and **[Zcash Labs](https://github.com/zcashlabs)**.
 
 The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 
@@ -23,6 +23,7 @@ The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 |:--:|:--|:--|
 | 🤖 | A Quickstart whose first example crashed | [`docs-mintlify` #105](https://github.com/cyberwave-os/docs-mintlify/pull/105) ✅ merged |
 | 🔊 | A TTS parameter that didn't match the actual API | [`skills` #17](https://github.com/sarvamai/skills/pull/17) ✅ merged |
+| 🧭 | Agent skills still warning about a Docker bug that had already been fixed | [`zcash-skills` #1](https://github.com/zcashlabs/zcash-skills/pull/1) ✅ merged |
 
 <img src="https://raw.githubusercontent.com/reetbatra/reetbatra/main/assets/divider.svg" width="100%" alt="">
 
