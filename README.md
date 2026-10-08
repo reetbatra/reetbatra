@@ -15,12 +15,14 @@
 
 ## 🔭 What I'm doing right now
 
-🧪 Fixing the docs and agent skills I trip over while building on **[Sarvam AI](https://github.com/sarvamai)**, **[Cyberwave](https://github.com/cyberwave-os)** and **[Zcash Labs](https://github.com/zcashlabs)**.
+🧪 Fixing the docs and agent skills I trip over while building on **[Sarvam AI](https://github.com/sarvamai)**, **[Mastra](https://github.com/mastra-ai)**, **[Cyberwave](https://github.com/cyberwave-os)** and **[Zcash Labs](https://github.com/zcashlabs)**.
 
 The kind of bugs you only hit by *building on* an SDK instead of reading it 👇
 
 | | What broke | Where |
 |:--:|:--|:--|
+| 📡 | Streaming that never recorded the assistant's reply | [`ai-sdk` #2](https://github.com/sarvam-ai/ai-sdk/pull/2) ✅ merged |
+| 📚 | Ten docs examples importing names the packages don't export | [`mastra` #26277](https://github.com/mastra-ai/mastra/issues/26277) ✅ fixed by Mastra |
 | 🤖 | A Quickstart whose first example crashed | [`docs-mintlify` #105](https://github.com/cyberwave-os/docs-mintlify/pull/105) ✅ merged |
 | 🔊 | A TTS parameter that didn't match the actual API | [`skills` #17](https://github.com/sarvamai/skills/pull/17) ✅ merged |
 | 🧭 | Agent skills still warning about a Docker bug that had already been fixed | [`zcash-skills` #1](https://github.com/zcashlabs/zcash-skills/pull/1) ✅ merged |
